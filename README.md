@@ -27,7 +27,7 @@ streamlit run app.py
 
 ## Deployment
 The application is deployed on Streamlit Cloud:
-[Link](URL "https://awssagemaker-flightpriceprediction-9dlbstbmrwg3yljvlouwxj.streamlit.app/")
+[Link]("https://awssagemaker-flightpriceprediction-9dlbstbmrwg3yljvlouwxj.streamlit.app/")
 
 ## Future Work
 - Add real-time price APIs
