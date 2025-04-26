@@ -36,4 +36,4 @@ The application is deployed on Streamlit Cloud:
 - Add price trend visualizations
 
 ## Contact
-Your Name - subhac4102000@gmail.com
+Subhadeep Choudhuy - subhac4102000@gmail.com
