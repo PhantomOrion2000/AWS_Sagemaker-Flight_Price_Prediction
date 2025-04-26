@@ -26,8 +26,7 @@ streamlit run app.py
 - Accuracy: 84.32%
 
 ## Deployment
-The application is deployed on Streamlit Cloud:
-[Link]("https://awssagemaker-flightpriceprediction-9dlbstbmrwg3yljvlouwxj.streamlit.app/")
+The application is deployed on Streamlit Cloud
 
 ## Future Work
 - Add real-time price APIs
